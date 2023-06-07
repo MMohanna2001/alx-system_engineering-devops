@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -unu ../*.html
+cp -unu --target-directory=.. ./*.html
