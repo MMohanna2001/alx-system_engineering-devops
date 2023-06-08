@@ -1,2 +1,2 @@
 #!/bin/bash
-chown betty /temp/hello
+chown betty /temp/hello.txt
